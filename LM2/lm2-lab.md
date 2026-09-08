@@ -15,3 +15,6 @@ Values Stored
 Information Stored
 - currentdate: The current date and time.
 - subscription: My Azure subscription information, including its name, ID, tenant, and status.
+- Task 3: Learn About Your Variables:
+- Variable containing the most information: `$subscription` contained the most information because it stored multiple Azure subscription properties, including the subscription name, ID, tenant ID, and status.
+- Variable containing the least information: `$semester` contained the least information because it stored only one short text value: `"Fall 2026"`.
