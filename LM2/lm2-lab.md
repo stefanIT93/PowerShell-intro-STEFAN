@@ -27,3 +27,11 @@ Task 5: Azure Information Collection
 - Subscription State: Enter the subscription state
 - Tenant ID: Enter the tenant ID
 - Current Azure Context: Enter the current Azure context
+Task 6: Applying Variables
+ Variables Created
+- $favoritetech = "Cloud Computing"`
+- $futurejob = "Systems Administrator"`
+ How Variables Helped Store Information
+Variables stored information under recognizable names. This allowed me to display and reuse the information without typing the values again.
+ Real-World IT Use
+A system administrator could store a server name, IP address, or Azure resource group in a variable and reuse it in multiple PowerShell commands.
