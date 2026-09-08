@@ -1,8 +1,17 @@
-LM2 lab
-Variables created
--student name= Stefan Zamfirache
-Semester 3= Fall 2026
+LM2 Lab
+ Task 1: Create Your First Variables
+Variables Created
+- $studentname = "Stefan Zamfirache"
+- $program = IT - Systems Administration"
+- $semester = Fall 2026"`
 Values Stored
--student name Stefan Zamfirache
--program IT- System Admin
--semester Fall 2026
+- studentname: Stefan Zamfirache
+- program: IT - Systems Admin
+- semester: Fall 2026
+ Task 2:Storing Command Output
+ Commands Used
+- $currentdate = Get-Date
+- $subscription = Get-AzSubscription
+Information Stored
+- currentdate: The current date and time.
+- subscription: My Azure subscription information, including its name, ID, tenant, and status.
