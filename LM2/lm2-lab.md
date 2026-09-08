@@ -22,3 +22,8 @@ Task 4: Using PowerShell Help
   - One thing I learned about Get-Date: It is displaying the current date and time and can format in different ways the results.
   -One thing I learned about Get AZ Subscription: It is displaying info about Azure subscriptions available to my account
   - The GetAzSubscription filter message was most useful because it showed how to find a specific Azure subscription
+Task 5: Azure Information Collection
+- Subscription Name: Enter your subscription name
+- Subscription State: Enter the subscription state
+- Tenant ID: Enter the tenant ID
+- Current Azure Context: Enter the current Azure context
