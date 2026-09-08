@@ -18,3 +18,7 @@ Information Stored
 - Task 3: Learn About Your Variables:
 - Variable containing the most information: `$subscription` contained the most information because it stored multiple Azure subscription properties, including the subscription name, ID, tenant ID, and status.
 - Variable containing the least information: `$semester` contained the least information because it stored only one short text value: `"Fall 2026"`.
+Task 4: Using PowerShell Help
+  - One thing I learned about Get-Date: It is displaying the current date and time and can format in different ways the results.
+  -One thing I learned about Get AZ Subscription: It is displaying info about Azure subscriptions available to my account
+  - The GetAzSubscription filter message was most useful because it showed how to find a specific Azure subscription
