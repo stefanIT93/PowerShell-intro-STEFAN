@@ -1,0 +1,1 @@
+For Task 4, I stored the VM information in a variable called $vms and used that variable in the pipeline.For Task 3, I added the Location property because it shows where each virtual machine is located.

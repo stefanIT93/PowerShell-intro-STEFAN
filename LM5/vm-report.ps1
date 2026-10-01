@@ -1,1 +1,3 @@
-Get-AzVM | Select-Object Name, ResourceGroupName
+$vms = Get-AzVM
+
+$vms | Select-Object Name, ResourceGroupName, Location
